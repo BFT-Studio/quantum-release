@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "notes": "See the assets to download this version and install.",
   "pub_date": "2024-07-13T07:20:29.129Z",
   "platforms": {
